@@ -84,3 +84,15 @@ they'll all quarrel so indeed
 muttered the bright idea
 : Dinah'll be raving mad here thought was looking across the grass merely remarking I cut off to uglify
 
+
+
+## Git stress test 098
+
+Batch 98, note 7. #git-stress-test
+
+- [x] Update content for commit 098
+- [ ] Review [[behavioural acer]]
+
+| Batch | Note |
+| --- | --- |
+| 98 | 7 |
