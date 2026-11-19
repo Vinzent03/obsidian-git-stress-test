@@ -73,3 +73,15 @@ added It was suppressed by mice
 Tell me that SOMEBODY ought
 : Stolen.
 
+
+
+## Git stress test 006
+
+Batch 6, note 4. #git-stress-test
+
+- [x] Update content for commit 006
+- [ ] Review [[accoutred stephen spender]]
+
+| Batch | Note |
+| --- | --- |
+| 6 | 4 |

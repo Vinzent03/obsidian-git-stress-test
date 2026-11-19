@@ -75,3 +75,15 @@ THAT.
 What's your choice and
 : Either the accusation.
 
+
+
+## Git stress test 006
+
+Batch 6, note 2. #git-stress-test
+
+- [x] Update content for commit 006
+- [ ] Review [[according cinclus]]
+
+| Batch | Note |
+| --- | --- |
+| 6 | 2 |
