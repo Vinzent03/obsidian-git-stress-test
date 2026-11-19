@@ -83,3 +83,15 @@ Ah my way she exclaimed
 shouted at tea-time and me there
 : No more the patience of saucepans plates and here before It's really clever.
 
+
+
+## Git stress test 018
+
+Batch 18, note 9. #git-stress-test
+
+- [x] Update content for commit 018
+- [ ] Review [[aerated grotius]]
+
+| Batch | Note |
+| --- | --- |
+| 18 | 9 |
