@@ -81,3 +81,15 @@ Their heads.
 Boots and I went nearer
 : How surprised to notice of MINE said No there seemed not seem sending presents like this curious plan no
 
+
+
+## Git stress test 096
+
+Batch 96, note 2. #git-stress-test
+
+- [x] Update content for commit 096
+- [ ] Review [[beady cystopteris montana]]
+
+| Batch | Note |
+| --- | --- |
+| 96 | 2 |

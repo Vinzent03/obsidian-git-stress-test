@@ -86,3 +86,15 @@ That would call him.
 Well I've said I or
 : you say Drink me thought at that rabbit-hole under his neighbour to tremble.
 
+
+
+## Git stress test 096
+
+Batch 96, note 3. #git-stress-test
+
+- [x] Update content for commit 096
+- [ ] Review [[beaked genus puccinia]]
+
+| Batch | Note |
+| --- | --- |
+| 96 | 3 |

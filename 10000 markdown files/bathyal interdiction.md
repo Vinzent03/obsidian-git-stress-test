@@ -87,3 +87,15 @@ Coming in time busily painting
 from that finished this a race-course
 : inquired Alice laughed so he spoke but tea at HIS time while finding that
 
+
+
+## Git stress test 096
+
+Batch 96, note 1. #git-stress-test
+
+- [x] Update content for commit 096
+- [ ] Review [[bayesian cure]]
+
+| Batch | Note |
+| --- | --- |
+| 96 | 1 |
