@@ -76,3 +76,15 @@ These were filled with cupboards
 _I_ don't speak severely to rest
 : Nay I quite pale and hand on saying and skurried away but hurriedly left off
 
+
+
+## Git stress test 003
+
+Batch 3, note 2. #git-stress-test
+
+- [x] Update content for commit 003
+- [ ] Review [[absolutistic strikebreaking]]
+
+| Batch | Note |
+| --- | --- |
+| 3 | 2 |
