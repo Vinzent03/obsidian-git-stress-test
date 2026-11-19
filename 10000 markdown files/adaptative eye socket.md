@@ -79,3 +79,15 @@ UNimportant your finger VERY turn-up
 Stupid things get very truthful
 : later.
 
+
+
+## Git stress test 014
+
+Batch 14, note 1. #git-stress-test
+
+- [x] Update content for commit 014
+- [ ] Review [[addlepated syllabus]]
+
+| Batch | Note |
+| --- | --- |
+| 14 | 1 |
